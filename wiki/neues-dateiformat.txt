@@ -1,0 +1,44 @@
+<!-- Unbekannte Parameter einfach leer oder auskommentiert lassen! -->
+{{Infobox Dateiformat
+| Icon = <!-- [[Interwiki Link]] oder [URL des Icons] -->
+| Logo = <!-- [[Interwiki Link]] oder [URL des Logos] -->
+| Screenshot = <!-- [[Interwiki Link]] oder [URL des Screenshots] -->
+| Beschreibung = <!-- kurze Beschreibung -->
+| Struktur = <!-- kurze Beschreibung -->
+| Dateiendung = <!-- *.xxx -->
+| MIME = <!-- keine Ahnung -->
+| UniformTyp = <!-- keine Ahnung -->
+| Entwickler = <!-- [url titel] -->
+| Standard-Software = <!-- [url titel] -->
+| LetzteVersion = <!-- V x.x -->
+| LetzteVersionDatum = <!-- yyyy -->
+| Kategorie = <!-- keine Ahnung -->
+| Container für = <!-- [[interwiki link]] -->
+| Enthalten in = <!-- [[interwiki link]] -->
+| Erweitert von = <!-- [[interwiki link]] -->
+| Erweitert zu = <!-- [[interwiki link]] -->
+| Spezifikation = <!-- [url titel] oder [[interwiki link]] -->
+| Dokumentation = <!-- [url titel] oder [[interwiki link]] -->
+| Lizenz = <!-- [[interwiki link]] -->
+| Website = <!-- [url titel] -->
+}}
+<!-- Beschreibung des Dateiformates in ein paar Sätzen. <ref>Referenz</ref> -->
+== Dokumentation ==
+ 
+== Templates == 
+ 
+== Quellen ==
+'''Skripten'''
+ 
+'''Bücher'''
+ 
+== Quellenverweise ==
+<references />
+ 
+[[Category:Open Source Science - Dateiformat]]
+[[Category:Open Source Science - Datenformat]]
+</code>
+ 
+<noinclude>
+[[Category:Open Science - Templates]]
+</noinclude>

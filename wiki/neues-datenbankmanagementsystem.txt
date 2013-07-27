@@ -1,0 +1,43 @@
+{{Infobox Datenbanksystem
+| Logo = <!-- Interwiki Link oder URL des Logos -->
+| Beschreibung = <!-- Beschreibung des Logos -->
+| Datenbank-Art = <!-- [[Interwiki Link]] -->
+| Erscheinungsjahr = <!-- Zahl -->
+| Entwicklung = <!-- [url Titel] -->
+| AktuelleVersion = <!-- Version X.X -->
+| AktuelleVersionDatum = <!-- Version X.X -->
+| Beeinflusst_von = <!-- [[interwiki link]] -->
+| Beeinflusste = <!-- [[interwiki link]] -->
+| Betriebssystem = <!-- <[[GNU/Linux]], [[Windows]], [[MacOS]] -->
+| Schnittstellen = <!-- [[interwiki link]] -->
+| räumliche Erweiterung = <!-- [[interwiki link]] -->
+| Lizenz = <!-- [[interwiki link]] -->
+| Dokumentation = <!-- [url shorturl] -->
+| Quellcode = <!-- [url shorturl] -->
+| Website = <!-- [url shorturl] -->
+}}
+<!-- Beschreibung der Datenbank in ein paar Sätzen. <ref>Referenz</ref> -->
+== Anwenden ==
+=== Templates ===
+ 
+== Dokumentation ==
+=== Syntax ===
+ 
+=== Operatoren ===
+ 
+=== Befehle ===
+ 
+== Lernen - erste Schritte leicht gemacht ==
+=== Installation ===
+ 
+=== Templates ===
+ 
+== Quellen ==
+'''Skripten'''
+ 
+'''Literatur'''
+ 
+== Quellenverweise ==
+<references />
+ 
+[[Category:Open Source Science - Datenbanksystem]]

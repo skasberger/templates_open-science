@@ -1,0 +1,28 @@
+<!-- Unbekannte Parameter in der Infobox leer oder auskommentiert lassen! -->
+<!-- verwendetes Template => Vorlage:Infobox Protokoll -->
+{{Infobox Protokoll
+| Datum = <!-- DD.MM.YYYY  -->
+| Teilnehmer_innen = <!-- [[Benutzer:Username|Name]]  -->
+| Format = <!-- Skype, Telefon, Treffen, etc  -->
+| Projekt = <!-- [[Projektgruppe]] / [[Hackspace]] / [[Stammtisch]], [[Wiss. Arbeit]]  -->
+}}
+ 
+Dauer: 
+
+== Agenda ==
+ 
+ 
+== internes Protokoll ==
+ 
+ 
+== interne Tasks ==
+
+
+== Protokoll ==
+
+
+== Tasks ==
+ 
+[[Category:Open Science]]
+[[Category:Open Science Framework]]
+[[Category:Open Science Plattform]]

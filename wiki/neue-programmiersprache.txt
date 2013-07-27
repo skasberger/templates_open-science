@@ -1,0 +1,63 @@
+{{Infobox Programmiersprache
+| Logo = <!-- Interwiki Link oder URL des Logos -->
+| Beschreibung = <!-- Beschreibung des Logos -->
+| Paradigma = <!-- imperativ, deklarativ, objektorientiert, sonstiges bitte nennen -->
+| Typisierung = <!-- strukturiert,prozedural, modular, funktional, logisch, aspektbasiert, agentenorientiert, sonstiges bitte nennen -->
+| Erscheinungsjahr = <!-- YYYY -->
+| Entwicklung = <!-- [url Titel] -->
+| AktuelleVersion = <!-- Version X.X -->
+| AktuelleVersionDatum = <!-- Version X.X -->
+| Standardisierungen = <!-- Standardisierungen -->
+| Dialekte = <!-- Dialekte -->
+| Beeinflusst_von = <!-- [[interwiki link]] -->
+| Beeinflusste = <!-- [[interwiki link]] -->
+| Betriebssystem = <!-- <[[GNU/Linux]], [[Windows]], [[MacOS]] -->
+| Entwicklungsumgebung = <!-- [[interwikilink#header]] -->
+| Implementierung = <!-- wichtige Implementierungen -->
+| Lizenz = <!-- [[interwiki link]] -->
+| Quellcode = <!-- [interwiki link] -->
+| Dokumentation = <!-- [url shorturl] -->
+| Website = <!-- [url shorturl] -->
+}}
+<!-- Beschreibung der Seite in ein paar Sätzen. <ref>Referenz</ref> -->
+== Entwicklungsumgebung ==
+ 
+=== Erweiterungen ===
+ 
+== Anwenden ==
+=== Templates ===
+<!-- Link zu Code Richtlinien hier rein geben, wenn die Seite mal steht! -->
+ 
+== Erste Schritte ==
+ 
+== Dokumentation ==
+=== Syntax ===
+ 
+=== Datentypen ===
+ 
+=== Operatoren ===
+ 
+=== Funktionen ===
+ 
+== Quellen ==
+ 
+== Referenzen ==
+<references />
+ 
+<!--
+Typ
+[[Category:Open Source Science - Programmiersprachen]]
+[[Category:Open Source Science - Auszeichnungssprachen]]
+ 
+Sprache
+[[Category:Open Source Science - C]]
+[[Category:Open Source Science - C++]]
+[[Category:Open Source Science - C-Sharp]]
+[[Category:Open Source Science - Java]]
+[[Category:Open Source Science - JavaScript]]
+[[Category:Open Source Science - Python]]
+[[Category:Open Source Science - Ruby]]
+ 
+Plattform
+[[Category:Open Access Science - Web]]
+-->

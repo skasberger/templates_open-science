@@ -55,3 +55,5 @@ Zusammenfassender Satz:
 ## QUELLEN
 
 ## Changelog
+### Version x.y - yyyy-mm-dd
+

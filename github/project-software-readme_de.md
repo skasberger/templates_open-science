@@ -1,7 +1,6 @@
 PROJEKTNAME
 ==============================
 
-## BESCHREIBUNG
 KURZER EINLEITUNGS TEXT
 
 [LIZENZ](LIZENZURL)
@@ -39,7 +38,7 @@ sh ./code/shell/build.sh
 ## ToDo
 
 ## CHANGELOG
-### Version x.x
+### Version x.y - yyyy-mm-dd
 
 
 ## QUELLEN

@@ -1,7 +1,6 @@
 PROJECTNAME
 ==============================
 
-## DESCRIPTION
 SHORT INTRODUCTION TEXT
 
 [LICENCE](LICENCEURL)
@@ -38,7 +37,7 @@ sh ./code/shell/build.sh
 ## ToDo
 
 ## CHANGELOG
-### Version x.x
+### Version x.y - yyyy-mm-dd
 
 
 ## SOURCES

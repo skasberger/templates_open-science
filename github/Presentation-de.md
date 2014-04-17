@@ -1,19 +1,12 @@
-<PRAESENTATIONSNAME>
+<Praesentation>
 ==============================
 
-# <TITEL>
-
-<BESCHREIBUNG>
+<BESCHREIBUNG: kurz, mit Ziel, Inhalt>
 
 - Datum: 
 - Ort:
 - Sprache: 
-
-[<VERANSTALTUNGSNAME>](<VERANSTALTUNGSURL>)
-
-## ToDo
-
-### Nachher
+- [<WEBSITE>](URL): 
 
 ## FAKTEN
 Ziepublikum: 

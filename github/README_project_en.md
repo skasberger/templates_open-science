@@ -1,4 +1,4 @@
-RESEARCHPROJECT
+PROJECTNAME
 ==============================
 
 DESCRIPTION: short, goals, content
@@ -16,5 +16,6 @@ Open Data from following data repositories were used:
 
 ## STRUCTURE
 - [README.md](README.md): Overview of repository
+
 
 

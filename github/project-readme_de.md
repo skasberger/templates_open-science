@@ -1,8 +1,0 @@
-PROJEKTNAME
-==============================
-
-<BESCHREIBUNG>
-
-[<PROJEKTNAME>](<PROJEKTURL>)
-
-

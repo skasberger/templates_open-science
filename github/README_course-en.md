@@ -1,20 +1,18 @@
-RESEARCHPROJECT
+COURSENAME
 ==============================
+ 
+DESCRIPTION: short, goals, content>
 
-DESCRIPTION: short, goals, content
-
-- Team: 
-- Status: 
+- Lecturer: 
+- Semester: 
 - Language: 
 - [Webpage](URL) 
 
-**Used software**
+**Used Software**
 
-**Used data**
+**Used Data**
 Open Data from following data repositories were used:
 - [Portal](URL)
 
 ## STRUCTURE
 - [README.md](README.md): Overview of repository
-
-

@@ -1,8 +1,0 @@
-PROJECTNAME
-==============================
-
-<DESCRIPTION>
-
-[<PROJECTNAME>](<PROJECTURL>)
-
-

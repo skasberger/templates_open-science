@@ -1,0 +1,33 @@
+Dateiname= THEORIENAME.md
+
+# TITEL
+**UNTERTITEL**
+
+## Beschreibung
+
+KURZE ERKLÄRUNG WAS HIER VERMITTELT WIRD
+
+Letztes Update: DATUM
+
+## THEORIE PT. I
+
+## THEORIE PT. II
+
+## THEORIE PT. n
+
+## LITERATUR
+
+## REFERENZEN
+
+## WEITERE QUELLEN
+
+<!-- VORLAGEN
+
+![TITEL](images/FOLDER/IMAGENAME.png)
+
+**TITEL CODE**
+```
+CODE 
+```
+
+-->

@@ -1,0 +1,33 @@
+Filename= THEORYNAME.md
+
+# TITLE
+**SUBTITLE**
+
+## Description
+
+SHORT DESCRIPTION WHAT WILL BE EXPLAINED HERE
+
+Last Update: DATE
+
+## THEORY PT. I
+
+## THEORY PT. II
+
+## THEORY PT. n
+
+## LITERATUR
+
+## REFERENCES
+
+## FURTHER SOURCES
+
+<!-- TEMPLATES
+
+![TITEL](images/FOLDER/IMAGENAME.png)
+
+**TITEL CODE**
+```
+CODE 
+```
+
+-->

@@ -3,9 +3,9 @@ KURSNAME
  
 BESCHREIBUNG: kurz, mit Ziel, Inhalt
 
-- Lehrperson: 
+- Lehrperson(en): 
 - Semester: 
-- Sprache: 
+- Sprache: Deutsch
 - [Webpage](URL) 
 
 **Verwendete Software**

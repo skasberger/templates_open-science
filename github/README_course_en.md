@@ -3,9 +3,9 @@ COURSENAME
  
 DESCRIPTION: short, goals, content>
 
-- Lecturer: 
+- Lecturer(s): 
 - Semester: 
-- Language: 
+- Language: English
 - [Webpage](URL) 
 
 **Used Software**

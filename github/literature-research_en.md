@@ -1,38 +1,63 @@
 
 
-# LITERATURETITLE #1
+## LITERATURETITLE #1
 
-OUTTAKES AND NOTES
+SHORTDESCIRPTION
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+- Author: 
+- Date:
+- Citation: 
+- DOI:
 
-## DOCUMENTATION
-**CONTENT**
-- 
-- 
+**CITATIONS**
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+
+
 **NOTES**
 - 
-- 
+
 **TODO**
 - 
+
+**SUM UP**
+- Questions, Problems, new insights,...
+
+## LITERATURETITLE #2
+
+SHORTDESCIRPTION
+
+- Author: 
+- Date:
+- Citation: 
+- DOI:
+
+**CITATIONS**
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+- [p. ]
+
+
+**NOTES**
 - 
-**QUESTIONS**
+
+**TODO**
 - 
-- 
-**PROBLEMS**
-- 
-- 
-**NEW**
-- 
-- 
+
+**SUM UP**
+- Questions, Problems, new insights,...
+
 
 
 

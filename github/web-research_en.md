@@ -1,14 +1,20 @@
 
 
-## WEBSITETITLE #1
+
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+
+Please just copy the structure and don't change it!!
+
+## WEBSITETITLE
 
 SHORTDESCIRPTION
 
 - [URL](URL)
 - Date: 
 
-**CITATIONS**
-- 
+Cittaions: "" [p. ]
 
 **NOTES**
 - 
@@ -17,25 +23,6 @@ SHORTDESCIRPTION
 - 
 
 **SUM UP**
-- Questions, Problems, new insights,...
-
-## WEBSITETITLE #2
-
-SHORTDESCIRPTION
-
-- [URL](URL)
-- Date: 
-
-**CITATIONS**
-- 
-
-**NOTES**
-- 
-
-**TODO**
-- 
-
-**SUM UP**
-- Questions, Problems, new insights,...
+<Questions, Problems, new insights>
 
 

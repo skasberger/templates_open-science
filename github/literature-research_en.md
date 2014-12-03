@@ -1,65 +1,40 @@
 
 
-## LITERATURETITLE #1
+
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
+
+Please just copy the structure and don't change it!!
+
+## LITERATURETITLE
 
 SHORTDESCIRPTION
 
 - Author: 
 - Date:
-- Citation: 
 - DOI:
 
-**CITATIONS**
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
+Cittaions: "" [p. ]
 
+**Introduction & Methods**
+<theoretical background, research status quo>
+- 
 
-**NOTES**
+**Research Question(s)**
+- RQ1: 
+
+**Results**
+- RQ1:
+
+**Conclusion & Discussion**
 - 
 
 **TODO**
 - 
 
 **SUM UP**
-- Questions, Problems, new insights,...
-
-## LITERATURETITLE #2
-
-SHORTDESCIRPTION
-
-- Author: 
-- Date:
-- Citation: 
-- DOI:
-
-**CITATIONS**
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-- [p. ]
-
-
-**NOTES**
-- 
-
-**TODO**
-- 
-
-**SUM UP**
-- Questions, Problems, new insights,...
-
-
-
+<Questions, Problems, new insights>
 
 
 

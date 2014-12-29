@@ -1,4 +1,4 @@
-openscienceASAP templates
+Open Science Templates
 =========
 
-Templates for openscienceASAP.org, GitHub, etc
+Templates for an open scientific workflow

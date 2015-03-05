@@ -7,4 +7,6 @@ In the [Tutorial: Quickly insert text and code with sublime with snippets](http:
 - Authorship Information: Creates authorship information variables which should be placed at the beginning of every python file - see [Python: What is the common header format?](http://stackoverflow.com/questions/1523427/python-what-is-the-common-header-format/1523456#1523456) at StackOverflow.
 - Function DocString: Creates a DocString for python functions with Description, parameter and return section.
 
+## Copyright
+The snippets are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 

@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+#!/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+$1DESCRIPTION
+"""
+
+IMPORT MODULES
+
+__author__ = "TM_FULLNAME"
+__copyright__ = "Copyright 2015"
+__license__ = "MIT"
+__version__ = "x.x.x"
+__maintainer__ = "Stefan Kasberger"
+__email__ = "mail@stefankasberger.at"
+__status__ = "Development" # 'Development', 'Production' or 'Prototype'
+
+# main 
+if __name__ == '__main__':
+	
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ins</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

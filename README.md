@@ -1,4 +1,4 @@
 Open Science Templates
 =========
 
-Templates for an open scientific workflow
+A collection of different kind of templates - but all helpfull for an open scientific workflow.

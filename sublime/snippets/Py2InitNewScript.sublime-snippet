@@ -8,12 +8,12 @@ $1DESCRIPTION
 
 IMPORT MODULES
 
-__author__ = "TM_FULLNAME"
-__copyright__ = "Copyright 2015"
+__author__ = "$TM_FULLNAME"
+__copyright__ = "Copyright $TM_YEAR"
 __license__ = "MIT"
 __version__ = "x.x.x"
-__maintainer__ = "Stefan Kasberger"
-__email__ = "mail@stefankasberger.at"
+__maintainer__ = "$TM_FULLNAME"
+__email__ = "$TM_EMAIL"
 __status__ = "Development" # 'Development', 'Production' or 'Prototype'
 
 # main 

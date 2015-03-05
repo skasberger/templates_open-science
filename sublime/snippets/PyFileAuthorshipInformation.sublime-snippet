@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-__author__ = $1"Author 1, Author 2 and Author 3"
-__copyright__ = "Copyright YEAR"
+__author__ = $1"$TM_FULLNAME"
+__copyright__ = "Copyright $TM_YEAR"
 __license__ = "LICENSE"
 __version__ = "x.x.x"
-__maintainer__ = "MAINTAINER"
-__email__ = "EMAIL"
+__maintainer__ = "$TM_FULLNAME"
+__email__ = "$TM_EMAIL"
 __status__ = "STATUS" # 'Development', 'Production' or 'Prototype'
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

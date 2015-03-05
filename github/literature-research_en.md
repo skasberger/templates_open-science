@@ -1,13 +1,11 @@
-
-```
 ## LITERATURETITLE
 
 SHORTDESCIRPTION
 
 - Author: 
 - Date:
-- status: [toRead, wip, finished]
-- research type: [fast overview, focused research (topic), full read, in depth]
+- Status: [toRead, wip, finished]
+- Research Type: [fast overview, focused research (topic), full read, in depth]
 
 ### Citations
 - "" [p. ]
@@ -24,6 +22,3 @@ SHORTDESCIRPTION
 
 ### SUM UP
 Questions, Problems, new insights
-```
-
-

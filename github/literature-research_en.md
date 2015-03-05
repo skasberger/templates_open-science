@@ -1,40 +1,29 @@
 
-
-
-TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
-TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
-TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE TEMPLATE 
-
-Please just copy the structure and don't change it!!
-
+```
 ## LITERATURETITLE
 
 SHORTDESCIRPTION
 
 - Author: 
 - Date:
-- DOI:
+- status: [toRead, wip, finished]
+- research type: [fast overview, focused research (topic), full read, in depth]
 
-Cittaions: "" [p. ]
+### Citations
+- "" [p. ]
 
-**Introduction & Methods**
-<theoretical background, research status quo>
-- 
-
-**Research Question(s)**
+### Research Question(s)
 - RQ1: 
+- Result
 
-**Results**
-- RQ1:
+### Notes
+- personal notes
 
-**Conclusion & Discussion**
-- 
+### TODO
+- toRead, to check, etc.
 
-**TODO**
-- 
-
-**SUM UP**
-<Questions, Problems, new insights>
-
+### SUM UP
+Questions, Problems, new insights
+```
 
 

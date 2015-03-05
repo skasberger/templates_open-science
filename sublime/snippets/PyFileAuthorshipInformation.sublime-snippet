@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+__author__ = $1"Author 1, Author 2 and Author 3"
+__copyright__ = "Copyright YEAR"
+__license__ = "LICENSE"
+__version__ = "x.x.x"
+__maintainer__ = "MAINTAINER"
+__email__ = "EMAIL"
+__status__ = "STATUS" # 'Development', 'Production' or 'Prototype'
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ai</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

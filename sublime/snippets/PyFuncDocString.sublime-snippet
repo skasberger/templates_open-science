@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+"""
+$1DESCRIPTION
+    
+:Parameters:
+	NAME : TYPE
+		DESCRIPTIOIN
+        
+:Return:
+	DESCRIPTION
+"""
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fds</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

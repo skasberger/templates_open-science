@@ -1,14 +1,13 @@
 <snippet>
 	<content><![CDATA[
-"""
-$1DESCRIPTION
-    
-:Parameters:
-	NAME : TYPE
-		DESCRIPTIOIN
-        
-:Return:
-	DESCRIPTION
+"""$1DESCRIPTION
+
+Args:
+	param1: The first parameter.
+	param2: The second parameter.
+
+Returns:
+	True if successful, False otherwise.
 """
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
